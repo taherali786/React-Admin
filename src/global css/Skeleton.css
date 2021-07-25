@@ -1,0 +1,11 @@
+
+.custom-skeleton {
+    border: 1px solid var(--surface-d);
+    border-radius: 4px;
+}
+.custom-skeleton ul {
+    list-style: none;
+}
+.grid-height{
+    margin-top: 6px;
+}
